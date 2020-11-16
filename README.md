@@ -1,5 +1,5 @@
 # Data Scicen excercise (people analytics, people data science)
-## Employee Renteion 
+## Employee Renteion (Final Report: Employee_retention_MihyeChoi.ipynb)
 
 The goal of this excercise is to predict when employees are going to quit by understanding the main drivers of employee churn.
 
