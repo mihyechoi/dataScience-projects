@@ -1,4 +1,4 @@
-# Employee Retention
+# Employee Retention (modeling part: updating)
 
 ## Goal: to predict when employees are going to quit by understanding the main drivers of employee churn.
 
