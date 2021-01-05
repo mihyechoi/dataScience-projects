@@ -9,7 +9,6 @@ Company XYZ sells a software for $39. Since revenue has been flat for some time,
 
 1. Should the company sell its software for $39 or $59?
 2. The VP of Product is interested in having a holistic view into user behavior, especially focusing on actionable insights that might increase conversion rate. What are your main findings looking at the data?
-3. The VP of Product feels that the test has been running for too long and she should have been able to get statistically significant results in a shorter time. Do you agree with her intuition? After how many days would you have stopped the test? Please, explain why.
 
 ## Data
 There are two tables:
