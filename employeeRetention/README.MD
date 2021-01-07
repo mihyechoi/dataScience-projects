@@ -1,6 +1,6 @@
-# Employee Retention (modeling part: updating now, 1.6.2021)
+# Employee Retention (updated: 1.6.2021)
 
-## Goal: to predict when employees are going to quit by understanding the main drivers of employee churn.
+## Goal: to predict employee retention by understanding the main drivers of employee churn.
 
 The data is employee data from a few companies. It includes all employees who joined from 2011/01/24 to 2015/12/13 with general information, such as average salary during her tenure, department, and years of experience. 
 
