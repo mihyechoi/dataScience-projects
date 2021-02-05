@@ -2,6 +2,8 @@
 
 ## Goal: to predict employee retention by understanding the main drivers of employee churn.
 
+### Insight Data Science  
+
 The data is employee data from a few companies. It includes all employees who joined from 2011/01/24 to 2015/12/13 with general information, such as average salary during her tenure, department, and years of experience. 
 
 The columns are:
